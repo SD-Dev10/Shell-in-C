@@ -1,0 +1,17 @@
+# compiled outputs
+a.out
+*.out
+
+*.o
+
+# build folders
+build/
+bin/
+
+
+# system files
+.DS_Store
+
+# editor files
+.vscode/
+*.swp
